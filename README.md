@@ -8,7 +8,7 @@
 ## Purpose
 
 This repo contains an investigation of a fire incidents dataset retrieved from the San Francisco Fire department's open data site. The
-code and write-up is stored for the exploratory analysis and some quick modelling with logit and multinomial logit models
+code and write-up is stored for the exploratory analysis and some quick modelling of fire incidents with logit and multinomial logit models.
 
 
 ## Files
