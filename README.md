@@ -14,6 +14,7 @@ code and write-up is stored for the exploratory analysis and some quick modellin
 ## Files
 
 * Exploring_fire_incidents_analysis_and_report_andrew_leung_10272019.ipynb  - Jupyter notebook with testing code and planning
+* Fire incidents csv - *__retrieved here__*: https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric 
 
 
 ## Creators
